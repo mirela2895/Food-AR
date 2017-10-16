@@ -1,1 +1,55 @@
 
+Food-AR
+State of the art
+
+What did the others, techniques and methodologies used, evaluation methods, results
+
+The kitchen is a complex and dangerous multi-user work environment that can benefit from augmented reality techniques to help people cook more safely, easily and efficiently. With this type of software it can be helped a chef at a local restaurant or people who are still learning to dice an onion or boil water. 
+
+Most of the applications create a virtual place to exchange recipes with friends, family, and strangers.We can upload a recipe with a picture of the finished dish and others can comment or a give a number of stars for rating. Recipes are also sorted into different categories and the app creates a profile for yourself, so you can see what others have uploaded and liked.
+
+ Some of the apps also allows you to manage your shopping lists and recipes across platforms, and even perform voice-activated commands that are specifically designed for hands-free cooking. Another can connect with sensors to set time and temperature and when the meal is done it announces you. 
+
+To see some examples go to Relevant links;
+
+
+Important names in the field, research teams;
+Related Articles and books;
+
+MANGO - Mobile Augmented Reality with
+Functional Eating Guidance and Food Awareness
+https://www.researchgate.net/publication/283878857_MANGO_-_Mobile_Augmented_Reality_with_Functional_Eating_Guidance_and_Food_Awareness
+
+CounterIntelligence: Augmented Reality Kitchen 
+http://www.csie.ntu.edu.tw/~b91011/ubicomp/papers/CounterIntelligence%20Augmented%20Reality%20Kitchen.pdf
+
+A Virtual Agent for a Cooking Navigation System Using Augmented Reality
+https://link.springer.com/chapter/10.1007%2F978-3-540-85483-8_10?LI=true
+
+Relevant links;
+https://play.google.com/store/apps/details?id=com.anovaculinary.android&hl=en
+http://fixational.com/#winkreader
+https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free
+https://play.google.com/store/apps/details?id=com.yummly.android
+https://play.google.com/store/apps/details?id=com.ajnsnewmedia.kitchenstories
+https://www.youtube.com/watch?v=L_8jOT16dkc
+http://www.spoon-tamago.com/2013/03/13/cooking-simulator-tokyo-institute-technology/
+
+Resources and tools available
+Android Studio
+https://developer.android.com/studio/index.html
+Unity
+https://store.unity.com/?_ga=2.54280557.414747267.1508180674-1258261888.1508180674
+Iris Recognision Software (Free for 30 days)
+http://download.cnet.com/Iris-Recognition-System/3000-2053_4-10553145.html
+Grus (Iris recognision)
+http://www.grusoft.com/girist.htm
+Voice commands
+https://play.google.com/store/apps/details?id=com.brandall.nutter&hl=ro
+https://www.greenbot.com/article/2359684/android/a-list-of-all-the-ok-google-voice-commands.html
+How to add voice controls in Android Studio
+https://developer.android.com/training/wearables/apps/voice.html
+Microsoft HoloLens
+https://www.microsoft.com/en-us/hololens
+
+
