@@ -1,0 +1,2 @@
+# Food-AR
+- Se va construi o aplicatie ce va contine elemente de realitate augmentata in domeniul gastronomic - Aplicatia va gestiona o lista de retete (ingrediente, cantitati, mod de preparare (text, poze, video)) - Pentru partea de identificare ingrediente se va folosi componeta AR - Pentru modul de preparare - indicatii verbale sau filme video - se vor folosi comenzi vocale (start, stop, pauza, inapoi, inainte - Alexa) sau se va folosi irisul/gesturi pentru a da aceste comezi
