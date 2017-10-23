@@ -8,4 +8,8 @@
 - The application will handle a list of recipients (ingredients, quantities, preparation mode (text, pictures, video))
 - For ingredients identification part we will use the AR component and for the preparation mode (verbal indications or video films) we will use voice commands (start, stop, pause, back, forward - Alexa), the iris movement or the hand gestures 
 
+State of the art:
 https://docs.google.com/document/d/1QkdX_yTMwaaPcCg-9gpnzkGjLZ0_bqhFzC0g_qvNmBM/edit?usp=sharing
+
+Requirements analysis:
+https://docs.google.com/document/d/1hnSvO0xU27VMARW2g0xqTfYZDrdCWSNSCnVOXJ_LavQ/edit?usp=sharing
